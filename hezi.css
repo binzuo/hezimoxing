@@ -1,0 +1,56 @@
+/*style.css */
+*{
+    margin: 0;
+    padding: 0;
+}
+body{
+    width: 3000px;
+    height: 8000px;
+}
+div{
+    color: yellow;
+    background: red;
+    border: 30px solid blue;
+    height: 500px;
+    margin: 100px;
+    padding: 50px;
+}
+div#second{
+    color: aqua;
+    background-color: cornflowerblue;
+    border: 20px solid red;
+    height: 500px;
+    margin: 80px;
+    padding: 80px;
+}
+span{
+    height: 500px;
+    color: deeppink;
+    background-color: yellow;
+    border: 10px solid blue;
+    margin: 50px;
+    padding: 100px
+}
+span.first{
+    height: 500px;
+    color: deeppink;
+    background-color: yellow;
+    border: 10px solid blue;
+    margin: 50px;
+    padding: 100px
+}
+b{
+    color: red;
+    background-color: yellow;
+    border: 1px solid blue;
+    margin: 60px;
+    padding: 100px;
+}
+b#test{
+    color: red;
+    background-color: yellow;
+    border: 1px solid blue;
+    margin: 50px;
+    padding: 100px;
+
+}
